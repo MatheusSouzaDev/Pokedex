@@ -60,7 +60,7 @@
 .cartao-pokemon .cartao-informacoes .status ul li, .cartao-pokemon .cartao-informacoes .habilidades ul li{
     border-bottom: 1px solid #c3c4c5;
     padding: 0 0 5px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 15px;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .tipo-fogo{
-    background-color: #ed8a8b;
+    background-color: #eb6668;
 }
 
 .tipo-eletrico{
@@ -81,7 +81,7 @@
 }
 
 .tipo-grama{
-    background-color: #49d0b0;
+    background-color: #36be9f;
 }
 
 .tipo-fantasma{
@@ -89,7 +89,7 @@
 }
 
 .tipo-dragao{
-    background-color: #c29791;
+    background-color: #d19e97;
 }
 
 
